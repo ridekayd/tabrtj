@@ -1,0 +1,241 @@
+盾牌（Dunpai）保险柜全国售后服务点热线号码:400 - 690 - 6088盾牌（Dunpai）保险柜的维修电话可能因地区和具体服务内容而有所不同，但通常，用户可以通过拨打盾牌（Dunpai）保险柜的全国统一客服热线400 - 690 - 6088来获取维修服务。以下是一些可供参考的电话号码： 盾牌（Dunpai）保险柜全国统一客服热线：400 - 690 - 6088盾牌（Dunpai）保险柜另一客服热线：400 - 690 - 6088这些电话号码通常提供24小时服务，用户可以随时拨打咨询或报修。在拨打电话时，建议用户准备好盾牌（Dunpai）保险柜的型号、故障描述以及详细的联系方式，以便客服人员能够更快地为用户提供帮助。 此外，盾牌（Dunpai）保险柜在各地区也可能设有售后服务点电话，用户可以根据自己所在的城市，查找并拨打相应的售后服务点电话。这些电话号码可能会因地区而异，并且可能会有所变动，因此建议用户在拨打前先进行确认。 总的来说，如果您需要盾牌（Dunpai）保险柜的维修服务，可以直接拨打上述全国统一客服热线或所在地区的售后服务点电话，以获取及时、专业的帮助。
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/6597ebc1f218cd16222be72f2f5766b2d76222df
+
+江苏电信 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/ea8beec3782a6a97e8d33d0c741cf1676e29985a
+
+江苏 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/0195b2f445eb3398ef89b27424898ce0f299499b
+
+安徽广电 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/6b51bec60669c65cd79c656b43e9af3078b35d49
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/9da6533537e3ffbf7b34d6a6ccc689031dcd654f
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/d05cd9c2b987f7ef2d1e09964a15567ada70dba5
+
+湖北 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/955eb9a8866c43058e8ae00b5a4d8967cab6233a
+
+湖南电信组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/986acabd455639cf2b43b211ba61ee8d35798359
+
+湖南电信 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/570f613aea6f7954ec17a129c8f0df69733877ab
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/0fadc18f6641f893c3b8651382f65e77731df13c
+
+湖南联通 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/39eea6f58cd9d6ebefcb8270d9e68bec087e416f
+
+湖南移动 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/9a0b68791fee391500ac8e61aab1fc7fc899fa95
+
+湖南 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/817f6113eee4f161ce9ffb1a9fcb62dac47673bd
+
+重庆移动组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/32b13521b611c5d1fc4285b9cc700b32da61890b
+
+重庆联通组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/768d2d093b135009e7daa22906d658d76e02c0b0
+
+重庆联通直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/6b804c9bb6ca6fb30103c5acfbb5182cc6bd914a
+
+重庆电信组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/bb9c4b0e782082fc27c1640679f32701298ed0e4
+
+重庆电信直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/40517a1115096fedf27de0645ba256ec1a52e465
+
+重庆 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/749231f42bd7fe8a4d4db7742bda38b7219e5819
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/c6045a941b71d796b1f2c9c43611efd9d0187837
+
+四川电信 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/56d14d98466d72466bc8e82bc5533110573206aa
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/2858c36eb92ad42bfc449a826aa85212daeb5c78
+
+四川广电 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/7d8ea4322c25fd05d57d473382d989edb2497118
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/870ba045f7630924437cec6fa0f1c0f099c070c1
+
+四川联通 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/5f7088373d1ca07e7a8a04da74261ae44682b9ff
+
+四川 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/1295c30328c5d165717b96ad5e7f8f6196d6b490
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/b77ef72fdbe30cc19f92a9a0a00279787784a763
+
+云南移动 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/97ac02c7f301280788f6642cea04c2b52975cd8b
+
+云南 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/a6c2b8cc0e8a1c9ce3afc249ee7b809bf82f29f2
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/311c2f606a63c7168adbc99b7d595a2adbbf2341
+
+贵州移动 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/2a0b9aac1cfbe4319729e5aa7a2396df83eae99f
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/9e578fb94f594b6c7f84c985a8df71bd89ea31c9
+
+贵州联通 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/7954df2710c14b035d3aa1b130afb148aa407261
+
+贵州 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/e04a117b14d95a4454fcfc5e77980ace6d3b6fa6
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/e282f0387404dfbc58f55aace416702a67f943ef
+
+福建联通 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/bd1b8add1914d68922372732d5c29113eb607170
+
+福建移动 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/a71e4715531b533cfda0ee5653430fab866b5349
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/d1e85926d08c59fce628ba9adbb84c71662592f0
+
+福建电信 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/f0b42659ebc2f82dffc2e1442f99b9061f365ce4
+
+福建 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/986d63cc8611257303e5b7a76336652cb02d38c5
+
+安徽移动 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/badd11a61306a57d7f2074635171c66bf10d7f40
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/44ab07b447dcd18c8bc5c804b873b759ac805974
+
+安徽电信 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/5e2f77ca277df3516b52fc945317612821a891a1
+
+安徽联通 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/1c8c396f4d7c1fc4099be8cf78ba78051c432f21
+
+安徽 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/0529e3ac48ee7653036787a1541f591205567328
+
+陕西地方台直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/7aafb48ef0736a89cc600fd61af1b9829421b970
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/742785af13130358abffe57d0add9211680c1b97
+
+陕西电信 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/191286007a2b43209eeed4512ecc0e471e46e14b
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/eaa37dc9433b0604515fddf3044a981e0fa8af2f
+
+陕西移动 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/13dce71c0d681ddf088e734d01a0d9fac02e8cd8
+
+陕西 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/57049f60436b2546764d5d4c35deb2f4abd4636f
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/bda83d69377e9384bf433dc0d0fcdf03f82a846b
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/7a14e0743a864f5cb74074b907916a7f4f4d7d38
+
+甘肃 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/600b79e971e9bf16cb8e9e64ed1f7a10b392d4f8
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/4f48624d33118113471de997872e976bfa66b5ba
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/287d81f02a5eda651a55e97cda81b2aa9a6b16c5
+
+山西联通 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/4b69b105e421587ca4e1876808ac0d1ac8d5fa14
+
+山西 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/ad55517b3d0c9b28639945a5bbd415d2898d2ce1
+
+天津电信组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/413017f281d8ce2b2d6d97b719b33d1c73dda1c1
+
+天津联通组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/cec8e01182cdbec37b867a564a83216278f170f9
+
+天津 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/c77e3448811c64e9639c9a8588fb6ceda78a85c8
+
+上海移动直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/f3dc1ed89d257389ae1d936e8aee55b6c037dcd8
+
+上海联通组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/19e78bf94e2a26d0fc452cdeff9a6355afb73112
+
+上海联通直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/e5c6a3dd351720c153a239a6e4094c27f7af69f7
+
+上海电信组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/389aa04b3b3385dad7f3b1a601ef66f83a7cd33c
+
+上海电信直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/63affeae2a549cbe35102cf071f0be828b413e99
+
+上海 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/baf5bcdb6b9709e4d6c7214327072de95c104b0b
+
+北京移动 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/4290eaf7ed3bfae939e1bb63b5c9f241660a6ceb
+
+北京移动组播直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/2de711e30cce246a7deba3c477b5f25a915de3ac
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/f9f7923af4fdeceb965e55017fdd35cab6912841
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/0eb0c9c06fb97ecf9d90c7a99288f500719bb10c
+
+北京联通 IPTV 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/77b9f69e2840fff1cfe2c2df5cbc96a1b2a502c5
+
+北京 IPTV 直播源： https://github.com/emmathomas763131/rgqtoz/commit/ced96fcb9ae0595adc12d89d0eeac0a931ce054e
+
+部分地区的移动可全网通用： https://github.com/emmathomas763131/rgqtoz/commit/15fd772daa74a30765e92dfd32e80ac294e12807
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/emmathomas763131/rgqtoz/commit/d187999faaee4087f0ee365ae036d59196db12d1
+
+广播电台下载地址： https://github.com/emmathomas763131/rgqtoz/commit/db876332466ea7ea314b29cffcc82e16a07da982
+
+国内景区直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/1542a57c9a1945aa8614b3328243fd4cf3373d5a
+
+轮播华数黑莓下载地址： https://github.com/emmathomas763131/rgqtoz/commit/b8268152e4f3d6957fb2c70fec61fc28650c559c
+
+台湾香港澳门电视台直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/29f4aa9445738dddf31746f0b3d97d95202de9bb
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/emmathomas763131/rgqtoz/commit/f9e0359f6d8d155d20401a0876768e6072eb336c
+
+国外电视台直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/4f1d838982a7d880428ac8e8f92f79cdc5c4b8b6
+
+卫视地方台安徽农大下载地址： https://github.com/emmathomas763131/rgqtoz/commit/fccd7b56e02af6ad95f1f72f7cada9387090d259
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/emmathomas763131/rgqtoz/commit/e596581b889f7b0fbf0a9e1fac342d4f36f9b8ce
+
+卫视上海源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/96f73b6a9c4e50cd2d108327c004ac713bb4434d
+
+卫视重庆广电 下载地址： https://github.com/emmathomas763131/rgqtoz/commit/b6b9aabcde1c3cf204578fae24ad12dab25bc093
+
+卫视百视 TV 下载地址： https://github.com/emmathomas763131/rgqtoz/commit/e1bb3caab2dbff78e636161c6c3676de158f0756
+
+移动 IPv6 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/b94d7de37fb89d4d07047792dc47cdd92dbb510d
+
+国内电视台 IPv6 直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/9aababa3344b71d5952d294c5ee45456c1e63215
+
+各大卫视、上千个地方台： https://github.com/emmathomas763131/rgqtoz/commit/5e20b6991eb3653d29b251d5e880ae6759ac29af
+
+国内电视台直播源下载地址： https://github.com/emmathomas763131/rgqtoz/commit/1e8b1adedb3af0f39d1d004a41e0494594f38098
+
+全国可用直播源： https://github.com/emmathomas763131/rgqtoz/commit/cad032a446c5504baba6cc97bc1cea40ab7d76f8
+
+包括完整内容所有已知频道： https://github.com/emmathomas763131/rgqtoz/commit/4c8b637fcaae20decc2e4b6c8e752a81d32b7e09
+
+除成人内容以外的已知频道： https://github.com/emmathomas763131/rgqtoz/commit/83669c4b6dfcb58d305deeba93d20bcca63c0695
+
+收集来自世界各地公开可用的 IPTV： https://github.com/emmathomas763131/rgqtoz/commit/fc967d194ef981a3e481d1304fe000c74d528e0a
+
+稳定地址： https://github.com/emmathomas763131/rgqtoz/commit/139b9698e6d868ea66d3592d1f8e942dd9b79753
+
+2026-06-28 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/emmathomas763131/rgqtoz/commit/48ca852b5417a13e9abd6d853c41e06598f20c75
+
+2026-06-28 更新 IPTV 工具： https://github.com/emmathomas763131/rgqtoz/commit/2f7502d39e7349d9db07f5b2db226e948f565e7b
+
+2026-06-28 更新世界各地 IPTV 频道： https://github.com/emmathomas763131/rgqtoz/commit/4ec3be141eddf364870418cfd8dda287f1fe3fda
+
+2026-06-28 更新全国可用直播源： https://github.com/emmathomas763131/rgqtoz/commit/3e3ca20c8cba1bd14b4789095db979e9eb072c98
+
+新增各地运营商的 IPTV 地址： https://github.com/emmathomas763131/rgqtoz/commit/64eb4a1161c679722bc07d6ae66077e07477261f
+
+插件推荐： https://github.com/emmathomas763131/rgqtoz/commit/79a2a865f4d077a3fe4e7acefae8362e58a41006
+
+视频教程增加： https://github.com/emmathomas763131/rgqtoz/commit/486f5a1b104f9a54cd4d77eddc53b62a6fff1362
+
+咪咕源失效： https://github.com/emmathomas763131/rgqtoz/commit/1c90a6ff868fe066ad7f5c92c4d3db9b578dfba8
+
+2026-06-28 更新各地运营商 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/459d80edc4fca588d50fe87c4ba787edfd261202
+
+2026-06-28 更新台湾香港海外直播源： https://github.com/luna-smith978515/ilifyu/commit/70546c2d4940dc7a183d5182ebc9c87be49dce6a
+
+新增辽宁广电直播源： https://github.com/luna-smith978515/ilifyu/commit/5b1066cb93ee6d4cd3936b8924a90ce67df0ac0f
+
+新增江西广电直播源： https://github.com/luna-smith978515/ilifyu/commit/814da352ccf20c6c8a197d0e690f262a28ab2790
+
+新增湖北广电直播源： https://github.com/luna-smith978515/ilifyu/commit/72186902dfc62568eed6dfe1130bea7099f35000
+
+新增中国广电 cctv + 卫视直播源： https://github.com/luna-smith978515/ilifyu/commit/44de3dbb0fb4155a219ec0caffcbf1a9376f84d6
+
+新增辽宁电信 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/d89c2234608cddcf459c8bf9bdfa2d6d2df3fe59
+
+2026-06-28 更新台湾香港海外直播源： https://github.com/luna-smith978515/ilifyu/commit/6cd0dd0612ae6f9b9542fb4495b7fd2b59c061b0
+
+新增辽宁移动直播源： https://github.com/luna-smith978515/ilifyu/commit/fe0d2b9713e0ddad7bb0bd331aeb6d8ea07dad0d
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/bff3b7122e868a681e87f535e6e34537369f7d0b
+
+新增广东联通 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/f5f903d1087a6d68dee8b1bc7e2bb78d623b4cd1
+
+新增四川广电 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/2abe8870b764ef2e0a394c4a0db8edbb56567b91
+
+新增云南电信 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/68e820a55f878e036aa7ea0e83281a7b08599314
+
+2026-06-28 更新国内电视台直播源： https://github.com/luna-smith978515/ilifyu/commit/442d777770e63fb570f9536ca704f36761ecb3bc
+
+新增福建电信 IPTV 直播
